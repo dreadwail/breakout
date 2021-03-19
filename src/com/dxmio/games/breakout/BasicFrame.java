@@ -364,7 +364,7 @@ public class BasicFrame extends JFrame implements ActionListener, WindowListener
 
     protected void onAbout()
     {
-        JOptionPane.showMessageDialog(null, "Breakout! (c) 2009 Ben Lakey");
+        JOptionPane.showMessageDialog(null, "Breakout! (c) 2009 Dreadwail");
     }
 
     protected void onNew()
